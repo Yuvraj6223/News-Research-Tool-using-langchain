@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment and secret files
+.env
+secret_key.py
